@@ -1,0 +1,24 @@
+
+	::MOVIE::
+Title: Movie 2
+Genre: Genre 2
+Creator: Creator 2
+Duration: 122
+Year: 2019
+Viewed: Sí
+
+	::MOVIE::
+Title: Movie 6
+Genre: Genre 6
+Creator: Creator 6
+Duration: 126
+Year: 2023
+Viewed: Sí
+
+	::MOVIE::
+Title: Movie 7
+Genre: Genre 7
+Creator: Creator 7
+Duration: 127
+Year: 2024
+Viewed: Sí
